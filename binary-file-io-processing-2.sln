@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary-file-io-processing-2", "binary-file-io-processing-2\binary-file-io-processing-2.vcxproj", "{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Debug|x64.ActiveCfg = Debug|x64
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Debug|x64.Build.0 = Debug|x64
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Debug|x86.Build.0 = Debug|Win32
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Release|x64.ActiveCfg = Release|x64
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Release|x64.Build.0 = Release|x64
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Release|x86.ActiveCfg = Release|Win32
+		{4B2DAB00-BCD3-463F-BE1C-879F0C597F58}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {470D75BA-9CD6-41C7-9205-7602FE1D07C9}
+	EndGlobalSection
+EndGlobal
